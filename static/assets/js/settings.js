@@ -352,7 +352,7 @@ function getRandomURL() {
     "https://docs.google.com",
     "https://slides.google.com",
     "https://www.nasa.gov",
-    "https://blooket.com",
+    "https://https://www.nasa.gov/",
     "https://clever.com",
     "https://edpuzzle.com",
     "https://khanacademy.org",
